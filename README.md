@@ -1,5 +1,5 @@
-## This is my firstGit Repository.
-The Author - Rutuja Pawade.
+## This is my first Git Repository.
+ Author - Rutuja Pawade.
 
 <!--
 **rutujapawade/RutujaPawade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
